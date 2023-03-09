@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Book_App</string>
+    <string name="book_app">Book App</string>
+    <string name="welcome_to_book_app">Welcome to Book App</string>
+    <string name="contain_without_login">Contain without login</string>
+    <string name="login">login</string>
+    <string name="new_user_signup">New User?<b>SignUp</b> </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
